@@ -268,3 +268,55 @@
 # Voeg health en damage toe aan je speler.
 # Iedere keer dat de speler een level omhoog gaat,
 # krijgt hij 5 extra damage.
+
+
+leeftijd = 18
+
+if leeftijd >= 18:
+    print("je bent volwassen")
+else:
+    print("je bent nog geen 18.")
+cijfer = 5.5
+
+if cijfer >=5.5:
+    print("voldoende")
+else:
+    print("onvoldoende")
+
+
+cijfer = 9
+
+if cijfer >= 8:
+    print("goed gedaan")
+elif cijfer == 5.5:
+    print("voldoende")
+else:
+    print("onvoldoende")
+
+    
+health = 75
+has_shield = True
+
+if health >=50:
+    print("je hebt genoeg health")
+else:
+    print("weinig health")
+
+if has_shield:
+    print("je hebt een schild")
+
+
+age = 20
+has_ticket = True
+
+if age >=18 and has_ticket:
+    print("mag je naar binnen")
+else:
+    print("mag je niet naar binnen")
+
+for I in range(1,11):
+    print (I)
+
+
+for I in range (10,5):
+    print (I)

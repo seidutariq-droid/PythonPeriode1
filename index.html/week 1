@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> waar gaat deze pagina over? </h1>
+    <p>deze pagina gaat over een van mijn hobbies Gamen</p>
+   <img src="" alt=""> 
+   <p>dit is mijn console een ps5 hiermee speel ik mijn spellen op</p>
+<p>en dit is een link naar wat voor spel ik het meest nu speel</p>
+<li><a href="https://en.wikipedia.org/wiki/List_of_video_game_genres#Beat_'em_up_games">game genres </a></li>
+<strong>hier zie je  wat voor genres ik het meest speel</strong>
+<img src="" alt="dit is de genre die ik het meest speel">
+</body>
+</html>
